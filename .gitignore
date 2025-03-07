@@ -1,0 +1,14 @@
+# Ignorar ficheiros do macOS
+.DS_Store
+
+# Ignorar ficheiros do Visual Studio e VS Code
+.vs/
+.vscode/
+.idea/
+
+# Ignorar ficheiros temporários e logs
+*.log
+*.tmp
+*.bak
+bin/
+obj/
